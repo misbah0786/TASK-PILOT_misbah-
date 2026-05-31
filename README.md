@@ -71,12 +71,12 @@ Users can:
 ### Database
 
 * MongoDB Atlas
-* Mongoose
+
 
 ### Authentication
 
 * JWT (JSON Web Token)
-* bcryptjs
+
 
 ### Deployment
 
